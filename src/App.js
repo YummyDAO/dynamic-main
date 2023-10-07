@@ -97,7 +97,7 @@ function App() {
         The end game for liquid staking tokens
         <span className="text-span-4"></span>
         </h1><h2 className="home-top__txt">A non-custodial and decentralized BASE LST-backed stablecoin</h2><div className="home-button__wrp">
-            <a href="https://testnet.igurufinance.xyz/" className="home-top__button-trye w-button">Coming Soon</a>
+            <a href="https://testnet.igurufinance.xyz/" className="home-top__button-trye w-button">Open app</a>
             <a href="https://igurufinance.gitbook.io/iguru-finance-base/" className="home-top__button-operator w-button">Learn More</a>
           </div>
         </div>
